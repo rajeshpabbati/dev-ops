@@ -1,0 +1,6 @@
+Creating and configuring Amazon Linux EC2 instance.
+
+Synopsis: 
+1.Demonstrate how to create and configure Amazon Linux EC2 instance in US region (Default VPC, Default Storage, All traffic allowed from anywhere). 
+2.Check if you are able to login to the EC2 instance using Putty tool using appropriate username and key
+

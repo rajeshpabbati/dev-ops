@@ -1,0 +1,5 @@
+
+Installing and configuring Maven on Amazon Linux EC2 instance.
+
+Synopsis: 
+1.Demonstrate how to Install and configure Maven on Amazon Linux EC2 instance in US region (Default VPC, Default Storage, All traffic allowed from anywhere). 
