@@ -1,0 +1,5 @@
+Installing and configuring Docker on Amazon Linux EC2 instance.
+
+Synopsis: 
+1.Demonstrate how to Install and configure Docker on Amazon Linux EC2 instance in US region (Default VPC, Default Storage, All traffic allowed from anywhere). 
+2.Check the docker components by running docker info command
